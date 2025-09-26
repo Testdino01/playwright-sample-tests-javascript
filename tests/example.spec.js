@@ -114,7 +114,6 @@ test('Verify that the New User is able to add Addresses in the Address section',
 });
 
 
-
 test('Verify user can place and cancel an order', async () => {
   const productName = 'GoPro HERO10 Black';
   const productPriceAndQuantity = '₹49,999 × 1';
